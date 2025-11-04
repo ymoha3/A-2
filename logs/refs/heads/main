@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 c901db343f15299df69978202200a3d4280af663 ymoha3 <yusuf.mohamed3@ontariotechu.net> 1761851759 -0400	commit (initial): Installed Express, Imported files from Express website
+c901db343f15299df69978202200a3d4280af663 448718c46d699258fac43f152481364d26ec143d ymoha3 <yusuf.mohamed3@ontariotechu.net> 1761853106 -0400	commit: Created Home, About, Contact and Projects pages
+448718c46d699258fac43f152481364d26ec143d ef921453cd198e558a3a6da75a278180d65bd388 ymoha3 <yusuf.mohamed3@ontariotechu.net> 1761941951 -0400	commit: Finished all code covered in lecture 7
+ef921453cd198e558a3a6da75a278180d65bd388 dc00dbfa82e763ae85f1285f5f4481bb59d701f0 ymoha3 <yusuf.mohamed3@ontariotechu.net> 1761972475 -0400	commit: Imported an example page from Bootstrap for my homepage
+dc00dbfa82e763ae85f1285f5f4481bb59d701f0 93756245e6ee69ee6863302dd6c71af62865d96e ymoha3 <yusuf.mohamed3@ontariotechu.net> 1762067270 -0500	commit: Made notable progress on home page and projects page
+93756245e6ee69ee6863302dd6c71af62865d96e 76de2168d290eede430dd1cf3b3c66b86949a9ba ymoha3 <yusuf.mohamed3@ontariotechu.net> 1762111157 -0500	commit: Imported bootstrap code for about me and contact page, created blue/yellow gradient on app.css
+76de2168d290eede430dd1cf3b3c66b86949a9ba b3ea3dafc9ec56f84f62a65a183fb21e289182aa ymoha3 <yusuf.mohamed3@ontariotechu.net> 1762115940 -0500	commit: All pages now have an element(s) imported from bootstrap codes. Images and videos are now working.
+b3ea3dafc9ec56f84f62a65a183fb21e289182aa 25d5250c28a30eba9ffc04c4c677e3b7b0028daa ymoha3 <yusuf.mohamed3@ontariotechu.net> 1762118115 -0500	commit: Finishing touches to all pages with images. Website complete (?)
+25d5250c28a30eba9ffc04c4c677e3b7b0028daa c2b4cfca865a02f8be23cbb44e2da81cda1e4c4c ymoha3 <yusuf.mohamed3@ontariotechu.net> 1762132941 -0500	commit: Added linkedin and github links to website
